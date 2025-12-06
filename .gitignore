@@ -1,0 +1,7 @@
+.envrc
+result
+**/input.txt
+**.o
+**.hi
+**/target/**
+**/Main
